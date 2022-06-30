@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.bg-myRed{
+  background-color: brown;
+}
+
+.content{
+  margin-top: 50px;
+  padding: 12px;
+  height: 3000px;
+}
